@@ -1,5 +1,4 @@
 def weight_on_planets():
-    # write your code here
 
     e_weight = input("What do you weigh on earth? ")
 
